@@ -1,0 +1,27 @@
+Most common i, 2nd h
+
+e->i
+t->h
+
+ABCDEFGHIJK L M N O P Q R S T U V W X Y Z
+012345678910111213141516171819202122232425
+
+4a + b = 7
+19a + b = 10
+
+To solve keyword ciphers:
+-Run a frequency analysis to find e's letter etc
+Replace those letters and gradually encode them in
+Then deduce other words
+
+Vinegre cipher:
+- Find spaces between letters eg. a
+- Deduce length of keyword - then make a new string with every (length)th letter
+- Run a frequency aalysis and decode via caesar cipher
+- Deduce and replace
+
+Transposition cipher:
+- FInd length of string and try to find table width
+- Look for cribs
+
+If the frequency does not look like english, it is a polyalphabetic cipher.
